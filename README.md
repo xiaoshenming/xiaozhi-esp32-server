@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=你好😃，小智📟&text2=开源小智ESP-32后端服务&width=830&height=210)](https://github.com/xinnan-tech/xiaozhi-esp32-server)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=你好😃，智语📟&text2=智语:AI智能体物联网语音助手&width=830&height=210)](https://github.com/xinnan-tech/xiaozhi-esp32-server)
 <p align="center">
   <a href="https://github.com/xinnan-tech/xiaozhi-esp32-server/graphs/contributors">
     <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/xinnan-tech/xiaozhi-esp32-server" />
